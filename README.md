@@ -14,8 +14,6 @@
 
 | :exclamation:  **Under active development**  :exclamation: |
 
-> C2, also known as Command and Control, refers to the infrastructure and techniques used by hackers to maintain control over compromised systems or networks. By establishing a connection with these compromised systems, hackers can execute their malicious activities
-
 ## About:
 
  <img src="https://github.com/user-attachments/assets/0707d58c-173f-4d7d-926f-b2098103b2ba" width=69>
@@ -31,13 +29,6 @@ Koopa Shell is an advanced tool developed in Rust, designed as a Multiple Revers
 Made for pentest operations or attack simulations focused on evading initial detection and managing sessions in different environments. 
 
 | **New features and implementations will be continually added to the project** |
-
-
-## New Features:
-
-- 📌**NEW**: Added an easier way to connect to and navigate through sessions (Sessions index)
-- 📌**NEW**: The format of the session IDs has been changed to hexadecimal (16 bit) code.
-- 📌**NEW**: Create your own customized and more effective payloads at src/shell.rs
 
 ## Usage:
 
