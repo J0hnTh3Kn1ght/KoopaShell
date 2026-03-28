@@ -11,9 +11,6 @@
     
 </div></br>
 
-
-| :exclamation:  **Under active development**  :exclamation: |
-
 ## About:
 
  <img src="https://github.com/user-attachments/assets/0707d58c-173f-4d7d-926f-b2098103b2ba" width=69>
@@ -27,8 +24,6 @@ Koopa Shell is an advanced tool developed in Rust, designed as a Multiple Revers
 - Generation of obfuscated powershell payloads to avoid detection.
 
 Made for pentest operations or attack simulations focused on evading initial detection and managing sessions in different environments. 
-
-| **New features and implementations will be continually added to the project** |
 
 ## Usage:
 
